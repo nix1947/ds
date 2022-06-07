@@ -1,0 +1,2 @@
+- Descriptive Statistics https://github.com/nix1947/machineLearning 
+- Inferential Statistics https://www.udacity.com/course/ud201
